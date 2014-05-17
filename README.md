@@ -1,0 +1,1 @@
+# diff-patch [![NPM version](https://badge.fury.io/js/diff-patch.svg)](http://badge.fury.io/js/diff-patch) [![Build Status](https://travis-ci.org/kaelzhang/node-diff-patch.svg?branch=master)](https://travis-ci.org/kaelzhang/node-diff-patch) [![Dependency Status](https://gemnasium.com/kaelzhang/node-diff-patch.svg)](https://gemnasium.com/kaelzhang/node-diff-patch)
